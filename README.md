@@ -1,2 +1,2 @@
 # exercicios-praxis
- Repositório para enviar exercícios da praxis
+ Repositório para enviar exercícios e demandas da praxis
